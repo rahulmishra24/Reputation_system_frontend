@@ -1,0 +1,66 @@
+.login-card {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  color: black;
+  width: 50%;
+  margin: 10% auto;
+  
+}
+.login-card-right{
+  background-color: rgb(169,163,249);
+  display: flex;
+  flex: 1.2;
+  align-items: center;
+  justify-content: center;
+  padding:2% 2.3%;
+}
+.login-card-right-heading{
+    font-weight: 500;
+    font-size: 1rem;
+}
+.login-card-left{
+    display: flex;
+    flex: 2.8;
+    flex-direction: column;
+    color: black;
+    padding:2% 5%;
+    
+}
+.login-card-item{
+    margin: 2%;
+}
+.login-heading{
+    font-weight: 700;
+    font-size: 3rem;
+    /* background: -webkit-linear-gradient(rgb(158, 64, 212), rgb(147, 102, 157),rgb(56, 209, 191));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
+    align-self: center;
+    color: rgb(169,163,249);
+}
+.login-label{
+    margin: 2% 2% 0% 2%;
+    font-weight: 500;
+    font-size: larger;
+}
+.login-input {
+    height: 1.5rem;
+    border-radius: 4px;
+    padding: 2%;
+}
+.login-button {
+    padding: 2%;
+    font-weight: 600;
+    font-size: 1rem;
+    background-color: rgb(169,163,249);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.login-button:hover {
+    background-color: rgb(26, 31, 31);
+    color: white;
+}
+
