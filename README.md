@@ -1,6 +1,6 @@
 
 # SOLREPUTE
-## A novel approach to build online reputation
+## A novel approach to build onchain reputation
 
 ## Deployed Link
 https://reputation-system.vercel.app/
