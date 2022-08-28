@@ -1,11 +1,30 @@
-# SOLEREPUTE
-An On Chain Reputation System
 
-## Website link
+# SOLREPUTE
+## A novel approach to build online reputation
+
+## Deployed Link
 https://reputation-system.vercel.app/
 
-## Demo
-https://www.youtube.com/watch?v=WVWSWvG4itg
+## Github Repo Link
+https://github.com/rahulmishra24/Reputation_system_frontend
+
+## Contracts Link
+https://github.com/rahulmishra24/Reputation_system_contract
+
+
+## PPT
+https://docs.google.com/presentation/d/1_8_cRSM0orDnJmSFdKcvrksU0q2IPQ748k0ohuj4xEo/edit#slide=id.g1375cb8e9e2_0_45
+
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser .
+
+
+
 
 
 In the project directory, you can run:
